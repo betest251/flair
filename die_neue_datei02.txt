@@ -1,1 +1,5 @@
-Das ist eine weitere Datei mit Inhalt!
+Hallo,
+
+das ist eine weitere Datei mit Inhalt!
+
+Auf Wiedersehen!
